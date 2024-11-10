@@ -2,7 +2,7 @@
 
 ### Задача 1
 
-[Ccсылка на fork](https://github.com/garrkiss/shvirtd-example-python)
+[Cсылка на fork](https://github.com/garrkiss/shvirtd-example-python)
 
 ### Задача 3
 

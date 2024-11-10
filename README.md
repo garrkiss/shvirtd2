@@ -14,8 +14,8 @@
 
 ### Задача 6
 
-![Скрин](https://github.com/garrkiss/docker/blob/main/img/task6_1.png)
-![Скрин](https://github.com/garrkiss/docker/blob/main/img/task6_2.png)
+![Скрин](https://github.com/garrkiss/shvirtd2/blob/main/img/task6_1.png)
+![Скрин](https://github.com/garrkiss/shvirtd2/blob/main/img/task6_2.png)
 
 ### Задача 6.1
 
